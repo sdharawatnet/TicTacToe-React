@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import './App.css';
-import Blocks from './components/Blocks';
 import Board from './components/Board'
 import ScoreBoard from './components/ScoreBoard';
 import Reset from './components/Reset';

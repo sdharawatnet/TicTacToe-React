@@ -2,10 +2,15 @@
   display: block;
   border: none;
   border-radius: 0.5rem;
-  background-color: skyblue;
-  color: white;
-  font-size: 2rem;
+  background-color: #1f8f76;
+  color: #022a2f;
+  font-size: 3.5rem;
   padding: 0.5rem 1rem;
   margin: 2rem auto;
   cursor: pointer;
+}
+
+.resetbtn:active {
+  transform: scale(1.02);
+  transform: translateY(4px);
 }

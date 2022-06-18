@@ -6,7 +6,7 @@
   width: 20rem;
   font-size: 1.5em;
   margin: 3rem auto;
-  background-color: wheat;
+  background-color: #022a2f;
   box-shadow: 0px 0px 8px gray;
   border-radius: 0.5rem;
   font-weight: bold;
@@ -19,8 +19,8 @@
 }
 
 .x-score {
-  color: rgb(255, 70, 37);
-  border-bottom: 5px solid rgb(255, 70, 37);
+  color: rgb(255 208 37);
+  border-bottom: 5px solid rgb(255 208 37);
   border-radius: 0.5rem 0 0 0.5rem;
 }
 

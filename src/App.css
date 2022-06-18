@@ -1,8 +1,9 @@
-*{
+* {
   box-sizing: border-box;
+  font-family: "Comic Neue";
 }
 
-body{
+body {
   margin: 0;
-  background-color: #1a1a1d;
+  background-color: #1f8f76;
 }
