@@ -1,12 +1,6 @@
 What better than REACTing to our very own TIC TAC TOE! 
 
-
-![image](https://user-images.githubusercontent.com/29270745/174452755-e8ccec70-bcd3-4d2d-ac4c-f51bd81d41f3.png)
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/29270745/174452773-d7f52885-be72-4302-a0ed-da32149cce2b.png)
 
 
 # Getting Started with Create React App
